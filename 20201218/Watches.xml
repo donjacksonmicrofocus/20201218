@@ -1,0 +1,3 @@
+﻿<Properties>
+  <WatchEntry0 value="AIUtil.FindText(&quot;/mo&quot;, micFromTop, 1).Highlight" />
+</Properties>
