@@ -21,3 +21,6 @@ Next
 Set TextAnchor = AIUtil.FindTextBlock("Unlimited Data", micFromTop, 1)
 AIUtil("down_triangle", micAnyText, micFromTop, 1).Click
 
+
+AIUtil.SetContext Browser("creationtime:=0")
+AIUtil.FindTextBlock("uscellular").Click
